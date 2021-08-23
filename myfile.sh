@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "My third Jenkins script"
+echo "My second Jenkins script"
 ls /etc/rc.d
